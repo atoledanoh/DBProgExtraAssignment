@@ -360,3 +360,8 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+ExtraAssignment/.vs
+ExtraAssignment/.vs
+ExtraAssignment/obj
+ExtraAssignment/bin
+ExtraAssignment/.vs

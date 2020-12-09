@@ -34,10 +34,7 @@ namespace ExtraAssignment
             }
             catch (Exception e)
             {
-                //lblErr.Text = e.Message;
             }
-
-
         }
 
         private void LoadOrders()
@@ -54,7 +51,6 @@ namespace ExtraAssignment
             }
             catch (Exception e)
             {
-                //lblErr.Text = e.Message;
             }
         }
 
