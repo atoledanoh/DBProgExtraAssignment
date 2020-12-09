@@ -1,0 +1,13 @@
+C:\GitHub\DBProgExtraAssignment\ExtraAssignment\bin\Debug\ExtraAssignment.exe.config
+C:\GitHub\DBProgExtraAssignment\ExtraAssignment\bin\Debug\ExtraAssignment.exe
+C:\GitHub\DBProgExtraAssignment\ExtraAssignment\bin\Debug\ExtraAssignment.pdb
+C:\GitHub\DBProgExtraAssignment\ExtraAssignment\obj\Debug\ExtraAssignment.csprojAssemblyReference.cache
+C:\GitHub\DBProgExtraAssignment\ExtraAssignment\obj\Debug\ExtraAssignment.Form1.resources
+C:\GitHub\DBProgExtraAssignment\ExtraAssignment\obj\Debug\ExtraAssignment.Properties.Resources.resources
+C:\GitHub\DBProgExtraAssignment\ExtraAssignment\obj\Debug\ExtraAssignment.csproj.GenerateResource.cache
+C:\GitHub\DBProgExtraAssignment\ExtraAssignment\obj\Debug\ExtraAssignment.csproj.CoreCompileInputs.cache
+C:\GitHub\DBProgExtraAssignment\ExtraAssignment\obj\Debug\ExtraAssignment.exe
+C:\GitHub\DBProgExtraAssignment\ExtraAssignment\obj\Debug\ExtraAssignment.pdb
+C:\GitHub\DBProgExtraAssignment\ExtraAssignment\bin\Debug\Dapper.dll
+C:\GitHub\DBProgExtraAssignment\ExtraAssignment\bin\Debug\Dapper.xml
+C:\GitHub\DBProgExtraAssignment\ExtraAssignment\obj\Debug\ExtraAssignment.csproj.CopyComplete
